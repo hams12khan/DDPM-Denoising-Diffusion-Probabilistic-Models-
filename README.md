@@ -18,5 +18,5 @@ Diffusion models are a class of generative models that learn to generate data by
 ✔ Flexible Training – Works on custom datasets (images, audio, etc.).
 ✔ Mathematical Breakdown – Step-by-step derivations of the loss function and sampling process.
 
-Generating Sample
+Generated Sample
 ![image](https://github.com/user-attachments/assets/712b23a0-dad2-4e8a-8573-2ba619d13d47)
