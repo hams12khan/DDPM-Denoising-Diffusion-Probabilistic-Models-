@@ -1,4 +1,4 @@
-PyTorch
+
 A PyTorch implementation of the DDPM paper with detailed notes & derivations.
 
 This repository contains an implementation of "Denoising Diffusion Probabilistic Models" (Ho et al., 2020) along with comprehensive mathematical explanations and training scripts.
